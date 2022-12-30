@@ -11,7 +11,7 @@ pour le chargement de l'interface graphique.
 ******************************************************************************************************
 ==> Ce programme se décline en deux versions linguistiques : Français et Anglais.
 ******************************************************************************************************
-==> Pour choisir la langue, veuillez écrire en MAJUSCULES soit "FRA", soit "ENG" qui 
+==> Pour choisir la langue, veuillez écrire (en MAJUSCULES ou en miniscules) soit "FRA", soit "ENG" qui 
 correspondent respectivement au Français et à l'Anglais.
 ******************************************************************************************************
 ==> Il comporte 6 opérations qui apparaissent sous la forme d'une interface de commandes
