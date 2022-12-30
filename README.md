@@ -26,11 +26,11 @@ numérotées de 1 à 6 comme ci-dessous:
 ==> Chaque produit est identifié principalement par sa marque et son modèle.
 *****************************************************************************************************
 ==> Les caractéristiques du produit sont:
->>> La marque
->>> Le modèle
->>> La description
->>> Le fournisseur
->>> Le prix
->>> La quantité en stock
->>> La date d'achat (exprimée en jj mm aaaa)
+*** La marque
+*** Le modèle
+*** La description
+*** Le fournisseur
+*** Le prix
+*** La quantité en stock
+*** La date d'achat (exprimée en jj mm aaaa)
 ***************************************************************************************************
