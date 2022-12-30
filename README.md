@@ -16,12 +16,12 @@ correspondent respectivement au Français et à l'Anglais.
 ******************************************************************************************************
 ==> Il comporte 6 opérations qui apparaissent sous la forme d'une interface de commandes
 numérotées de 1 à 6 comme ci-dessous:
--*1* : L'ajout d'un produit
--*2* : La modification des caractéristiques d'un produit
--*3* : La suppression d'un produit
--*4* : La recherche d'un produit
--*5* : L'affichage de tous les produits
--*6* : Quitter le programme
+1- : L'ajout d'un produit
+2- : La modification des caractéristiques d'un produit
+3- : La suppression d'un produit
+4- : La recherche d'un produit
+5- : L'affichage de tous les produits
+6- : Quitter le programme
 *****************************************************************************************************
 ==> Chaque produit est identifié principalement par sa marque et son modèle.
 *****************************************************************************************************
