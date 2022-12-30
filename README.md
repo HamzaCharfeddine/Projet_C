@@ -15,13 +15,13 @@ pour le chargement de l'interface graphique.
 correspondent respectivement au Français et à l'Anglais.
 ******************************************************************************************************
 ==> Il comporte 6 opérations qui apparaissent sous la forme d'une interface de commandes
-numérotées de 1 à 6 comme ci-dessous: \n
-*1* : L'ajout d'un produit\n
-*2* : La modification des caractéristiques d'un produit\n
-*3* : La suppression d'un produit\n
-*4* : La recherche d'un produit\n
-*5* : L'affichage de tous les produits\n
-*6* : Quitter le programme\n
+numérotées de 1 à 6 comme ci-dessous:
+* L'ajout d'un produit
+* La modification des caractéristiques d'un produit
+* La suppression d'un produit
+* La recherche d'un produit
+* L'affichage de tous les produits
+* Quitter le programme
 *****************************************************************************************************
 ==> Chaque produit est identifié principalement par sa marque et son modèle.
 *****************************************************************************************************
